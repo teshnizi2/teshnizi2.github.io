@@ -39,7 +39,8 @@ I'm also working on innovative projects like using Wi-Fi signals and machine lea
 * Smart Living
     
 
-<h3>I want to maximize/minimize something on a graph. Can we talk?</h3>
+<h3>Interested in AI, Machine Learning, or IoT in Healthcare and Environmental Monitoring? Let's Discuss!</h3>
+    Absolutely! If you're intrigued by these topics, I'd be delighted to have a conversation with you. Please don't hesitate to reach out to me at Teshnizireza@gmail.com. I'm also open to discussing any other related areas you find fascinating. Let's connect and explore these innovative fields together!
 
-    Of course! Feel free to shoot me an email at [teshnizi@stanford.edu](mailto:teshnizi@stanford.edu). I'd also love to chat about anything else that you find related and interesting!
+![DALL·E 2023-11-30 14 27 53 - An abstract representation of the practical applications of AI in everyday life  The image should depict a harmonious blend of technology and daily ac](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/dfd25198-7943-4f0b-beca-f0fde6f1f12a)
 
