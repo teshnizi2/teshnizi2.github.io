@@ -24,7 +24,7 @@ Hello!
 
 In healthcare, this involves creating systems that can help diagnose illnesses or monitor patient health in a non-invasive way, meaning without the need for surgery or other intrusive methods. In terms of environmental monitoring, it's about using AI to better understand and protect our natural surroundings, for example, by detecting harmful pests in agriculture.
 
-![DALL·E 2023-11-30 14 14 54 - A conceptual art piece depicting the intersection of artificial intelligence, healthcare, and environmental monitoring  The image should show a futuri](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/e5961774-1d89-4ceb-8163-e22e6a12c12c)
+![DALL·E 2023-11-30 14 27 53 - An abstract representation of the practical applications of AI in everyday life  The image should depict a harmonious blend of technology and daily ac](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/dfd25198-7943-4f0b-beca-f0fde6f1f12a)
 
 I'm also working on innovative projects like using Wi-Fi signals and machine learning to identify people in a room, which has potential applications in areas like security or smart home technology. This work is a blend of cutting-edge research and practical application, aiming to solve real-world problems using the latest tech.
 
@@ -42,5 +42,5 @@ I'm also working on innovative projects like using Wi-Fi signals and machine lea
 <h3>Interested in AI, Machine Learning, or IoT in Healthcare and Environmental Monitoring? Let's Discuss!</h3>
     Absolutely! If you're intrigued by these topics, I'd be delighted to have a conversation with you. Please don't hesitate to reach out to me at Teshnizireza@gmail.com. I'm also open to discussing any other related areas you find fascinating. Let's connect and explore these innovative fields together!
 
-![DALL·E 2023-11-30 14 27 53 - An abstract representation of the practical applications of AI in everyday life  The image should depict a harmonious blend of technology and daily ac](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/dfd25198-7943-4f0b-beca-f0fde6f1f12a)
+
 
