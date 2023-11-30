@@ -28,20 +28,15 @@ In healthcare, this involves creating systems that can help diagnose illnesses o
 
 I'm also working on innovative projects like using Wi-Fi signals and machine learning to identify people in a room, which has potential applications in areas like security or smart home technology. This work is a blend of cutting-edge research and practical application, aiming to solve real-world problems using the latest tech.
 
-    Neural networks are good at extracting complicated patterns from high-dimensional data. Instead of trying to solve these intricate graph problems explicitly, we can use GNNs to embed graphical information into numerical representations, feed those to an RL model, and tune the model to generate a solution by maximizing/minimizing an objective of interest. 
-
-![Graph Learning and Reinforcement Learning for Constrained Combinatorial Optimization](../images/GNN_RL_for_CO_2.png)
-
 <h3>It sounds cool! But is it actually useful?</h3>
 
-    This approach is scalable and can result in close-to-optimal results. It, however, is not fully interpretable and lacks optimality guarantees. These characteristics make it a perfect fit for a subgroup of graph optimization problems, but not for all of them. Proper modeling of the input information, expressive architecture design, and problem-specific constraint enforcement are some of the challenges. Making all of the modules work together can also be tricky.
+    Artificial Intelligence and machine learning are transforming our world in subtle but profound ways. They bring about significant improvements in various sectors by automating complex tasks, enhancing efficiency, and providing deeper insights. In healthcare, AI contributes to more accurate and quicker diagnoses, making medical care more effective and accessible. In agriculture, it aids in optimizing farming practices, leading to better crop management and sustainability. Moreover, AI plays a crucial role in environmental conservation and smart living, helping manage resources more effectively and improving our daily lives through smart technology. Overall, these advancements are not just about technological innovation; they are about creating solutions that have a tangible impact on our world and daily experiences.
 
     Here is a list of some domains where this approach can be useful:
-* Supply Chain Management
-* Grid Optimization
-* Social Media Marketing
-* Circuit Design
-* Network Optimization 
+* Healthcare Enhancements
+* Agricultural Innovation
+* Environmental Monitoring
+* Smart Living
     
 
 <h3>I want to maximize/minimize something on a graph. Can we talk?</h3>
