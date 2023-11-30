@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mohammadreza Ahmadi Teshnizi"
 description              : &description "CE BSE Student at Sharif University"
