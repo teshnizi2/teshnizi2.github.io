@@ -40,7 +40,7 @@ I'm also working on innovative projects like using Wi-Fi signals and machine lea
     
 
 <h3>Interested in AI, Machine Learning, or IoT in Healthcare and Environmental Monitoring? Let's Discuss!</h3>
-    Absolutely! If you're intrigued by these topics, I'd be delighted to have a conversation with you. Please don't hesitate to reach out to me at Teshnizireza@gmail.com. I'm also open to discussing any other related areas you find fascinating. Let's connect and explore these innovative fields together!
+    Absolutely! If you're intrigued by these topics, I'd be delighted to have a conversation with you. Please don't hesitate to reach out to me at   [Teshnizireza@gmail.com](Teshnizireza@gmail.com). I'm also open to discussing any other related areas you find fascinating. Let's connect and explore these innovative fields together!
 
 
 
