@@ -15,8 +15,13 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "Certificates & Honors"
-    url: /cv/
+  
+
+  - title: "Courses & Workshops"
+    url: /Courses & Workshops/
+
+  - title: "Honors"
+    url: /Honors/
 
   - title: "CV"
     url: /cv/
