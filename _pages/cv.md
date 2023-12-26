@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+You can download the full version of my CV here:
+[CV.pdf](https://github.com/teshnizi2/teshnizi2.github.io/files/13772269/CV.pdf)
+
 Education
 ======
 * BSc in Computer Engineering, Sharif University of Technology
@@ -30,5 +33,4 @@ Skills
 * Programming: Python, Java, C/C++, C#, R, Matlab
 * Tools: Git, PyTorch, TensorFlow, Scikit-Learn, NumPy, Pandas, LaTeX
 
-Download The Full-Version of my CV in here:
-[CV.pdf](https://github.com/teshnizi2/teshnizi2.github.io/files/13772269/CV.pdf)
+
