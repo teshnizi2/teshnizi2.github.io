@@ -8,10 +8,6 @@ redirect_from:
 ---
 
 
-You can download the full version of my CV here:
-[CV.pdf](https://github.com/teshnizi2/teshnizi2.github.io/files/13772269/CV.pdf)
-
-
 Machine Learning
 ======
 * Convolutional Neural Networks for Visual Recognition (Stanford CS231n): [Link](https://github.com/teshnizi2/CS231n-Assignments)
@@ -21,19 +17,7 @@ Machine Learning
 * Neural Networks and Deep Learning: [Link](https://coursera.org/share/b7f7452ca559f03b7df981536179613c)
 * Structuring Machine Learning Projects: [Link](https://coursera.org/share/7431fc2efcabb45e4c94bae2db6d0d83)
 
-
-* Research Assistant, Data Science and Machine Learning lab, Sharif University
-  * Duties: Research in object detection, classification, regression, segmentation
-  * Supervisor: Dr. Mohammad Hossein Rohban
-* Research Assistant, RADIAN IoT Lab, Sharif University
-  * Duties: Developed human behavior dataset via WiFi-based human identification
-  * Supervisor: Dr. Bardia Safaei
-* Data Scientist, Social Data Analytics Project, Shahid Beheshti University
-* Assistant, Genetic Engineering Workshops, Kimiya Pazhouh Alborz
-
-Skills
+Other
 ======
-* Programming: Python, Java, C/C++, C#, R, Matlab
-* Tools: Git, PyTorch, TensorFlow, Scikit-Learn, NumPy, Pandas, LaTeX
-
+* Genetic Engineering 3-Month Workshop: [Link](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/90a31818-044e-4ecd-927c-dae94077d758)
 
