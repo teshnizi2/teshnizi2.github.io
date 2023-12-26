@@ -29,3 +29,6 @@ Skills
 ======
 * Programming: Python, Java, C/C++, C#, R, Matlab
 * Tools: Git, PyTorch, TensorFlow, Scikit-Learn, NumPy, Pandas, LaTeX
+
+Download The Full-Version of my CV in here:
+[CV.pdf](https://github.com/teshnizi2/teshnizi2.github.io/files/13772269/CV.pdf)
