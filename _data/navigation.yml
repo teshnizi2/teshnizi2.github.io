@@ -14,9 +14,13 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
+
+  - title: "Certificates & Honors"
+    url: /cv/
+
+  - title: "CV"
+    url: /cv/
     
-  # - title: "CV"
-  #   url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
