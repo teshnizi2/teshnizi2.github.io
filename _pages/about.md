@@ -20,7 +20,7 @@ Work Experience
 * Research Assistant, [RADIAN](https://www.researchgate.net/lab/Reliable-and-Durable-IoT-Applications-Networks-RADIAN-Bardia-Safaei) IoT Lab, Dr. [Safaei](https://www.researchgate.net/lab/Reliable-and-Durable-IoT-Applications-Networks-RADIAN-Bardia-Safaei), Sharif University
   * Duties: Developed human behavior dataset via WiFi-based human identification
 * Data Scientist, Social Data Analytics Project, [Shahid Beheshti University](https://en.sbu.ac.ir/)
-  * Duties: Collecting, Claening, and Visualization.
+  * Duties: Collecting, Cleaning, and Visualizing Data.
 * Assistant, Genetic Engineering Workshops, [Kimiya Pazhouh Alborz](https://kpalab.com/)
 
 
