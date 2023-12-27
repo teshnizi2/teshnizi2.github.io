@@ -1,4 +1,4 @@
-![image](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/a4d4bb80-a4cd-4d89-90d5-3521c11242fe)---
+
 permalink: /
 title: " "
 excerpt: "About me"
@@ -45,7 +45,7 @@ Honors
   * 🌐📰 2016 International Kangaroo Mathematics Competition Participant: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/29271b71-71ac-4781-aae5-eb5ac5dbf6fd)
   *  🇮🇷🥈 2016 National Junior Mathematics Olympiad 27th Rank and Silver Medalist: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/4986356c-93c2-4bc3-bcb5-12e72d3b81b2)
   *  🇮🇷🥉 2015 National Junior Mathematics Olympiad 46th Rank and Bronze Medalist: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/01565ba3-37cd-4c06-afd1-fa000b693c6d)
-  *   🥇 2014 Provincial International Kharazmi Festival Best Mechanics Scientific Design: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/b75507b4-b346-421f-aca1-4d2373366709)
+  *    🥇 2014 Provincial International Kharazmi Festival Best Mechanics Scientific Design: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/b75507b4-b346-421f-aca1-4d2373366709)
   *  🇮🇷🥇 2014 National Junior Mathematical Olympiad 6th Rank and Gold Medalist: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/6bf8b096-2f15-4a82-8fba-ce490e880d32)
 
 * Sports
