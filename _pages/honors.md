@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Important Academics
+Academics
 ======
 * 2017 International Mathematics Competition (IMC) Participant: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/9ccf3f7d-0625-4d7a-bed5-50d2344fcf65)
 * 2017 India International Math Competition Puzzle Challenge Winner: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/31f7cea8-7f1d-487a-b0a1-4d9e95ce795b)
@@ -22,7 +22,7 @@ Important Academics
 
 
 
-Important Sports
+Sports
 ======
 * 2018 Provincial Volleyball Tournament 1st Place Winner: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/fef87c83-8910-4d0b-9121-b05af8ec0f95)
 * 2018 District Ping Pong Tournament 3rd Place Winner: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/c336bf56-f597-402e-abf3-1ef0113ed06f)
