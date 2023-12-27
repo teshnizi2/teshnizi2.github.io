@@ -10,19 +10,19 @@ redirect_from:
 ---
 
 
-Hello, I'm currently pursuing my Bachelor of Science in Computer Engineering at Sharif University of Technology. My focus lies in exploring human health and behavior through a lens centered on data analysis. At present, I'm engaged in research activities within the Data and Machine Learning (DML) Lab, as well as contributing to projects at the RADIAN IOT Lab.
+Hello, I'm currently pursuing my Bachelor of Science in **Computer Engineering** at **Sharif University of Technology**. My focus lies in exploring **human health and behavior** through a lens centered on **data analysis**. At present, I'm engaged in research activities within the **Data and Machine Learning ([DML](http://dml.ir/users/profile/89/))** Lab, as well as contributing to projects at the **[RADIAN](https://www.researchgate.net/lab/Reliable-and-Durable-IoT-Applications-Networks-RADIAN-Bardia-Safaei)** IOT Lab.
 
 
 Work Experience
 ======
-* Research Assistant, Data Science and Machine Learning lab, Sharif University
-  * Duties: Research in object detection, classification, regression, segmentation
-  * Supervisor: Dr. Mohammad Hossein Rohban
+* Research Assistant, Data Science and Machine Learning([DML](http://dml.ir/users/profile/89/)) lab, [Sharif University](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjJtZa8y66DAxWIxgIHHVWoA1EQFnoECB0QAQ&url=https%3A%2F%2Fen.sharif.edu%2F&usg=AOvVaw0C0FqcOvOg2TQAq63ZJgir&opi=89978449)
+  * Duties: Research in **object detection**, **classification**, **regression**, **segmentation**
+  * Supervisor: Dr. [Mohammad Hossein Rohban](https://sharif.edu/~rohban/)
 * Research Assistant, RADIAN IoT Lab, Sharif University
-  * Duties: Developed human behavior dataset via WiFi-based human identification
-  * Supervisor: Dr. Bardia Safaei
-* Data Scientist, Social Data Analytics Project, Shahid Beheshti University
-* Assistant, Genetic Engineering Workshops, Kimiya Pazhouh Alborz
+  * Duties: Developed human behavior dataset via **WiFi-based human identification**
+  * Supervisor: Dr. [Bardia Safaei](https://www.researchgate.net/lab/Reliable-and-Durable-IoT-Applications-Networks-RADIAN-Bardia-Safaei)
+* Data Scientist, **Social Data Analytics** Project, [Shahid Beheshti University](https://en.sbu.ac.ir/)
+* Assistant, **Genetic Engineering** Workshops, [Kimiya Pazhouh Alborz](https://kpalab.com/)
 
 
 Courses
