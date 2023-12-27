@@ -39,13 +39,14 @@ Courses
 Honors
 ======
 * Academics
-  * 🌐📰 2017 **International** Math Competition (IMC) Participant: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/9ccf3f7d-0625-4d7a-bed5-50d2344fcf65)
-  * 🌐📰 2017 **International** Math Competition (IMC) Puzzle Winner: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/31f7cea8-7f1d-487a-b0a1-4d9e95ce795b)
-  * 🌐📰 2016 **International** Kangaroo Mathematics Competition Participant: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/29271b71-71ac-4781-aae5-eb5ac5dbf6fd)
-  * 🥈 2016 **National** Junior Math Olympiad 27th Rank and Silver Medalist: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/4986356c-93c2-4bc3-bcb5-12e72d3b81b2)
-  * 🥉 2015 **National** Junior Math Olympiad 46th Rank and Bronze Medalist: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/01565ba3-37cd-4c06-afd1-fa000b693c6d)
+  * 🌐📰 2017 **International** Math Competition (**IMC**) Participant: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/9ccf3f7d-0625-4d7a-bed5-50d2344fcf65)
+  * 🌐📰 2017 **International** Math Competition (**IMC**) Puzzle Winner: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/31f7cea8-7f1d-487a-b0a1-4d9e95ce795b)
+  * 📰 2016 **National** Kangaroo Math Competition Participant: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/29271b71-71ac-4781-aae5-eb5ac5dbf6fd)
+  * 📰 2016 **National** Kangaroo Math Competition Honors Diploma, Top 30%: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/27da1a34-b3fb-42e3-b604-fb79b7cc7e31)
+  * 🥈 2016 **National** Junior Math **Olympiad** 27th Rank and Silver Medalist: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/4986356c-93c2-4bc3-bcb5-12e72d3b81b2)
+  * 🥉 2015 **National** Junior Math **Olympiad** 46th Rank and Bronze Medalist: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/01565ba3-37cd-4c06-afd1-fa000b693c6d)
   * 🥇 2014 Provincial International Kharazmi Festival Best Mechanics Design: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/b75507b4-b346-421f-aca1-4d2373366709)
-  * 🥇 2014 **National** Junior Math Olympiad 6th Rank and Gold Medalist: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/6bf8b096-2f15-4a82-8fba-ce490e880d32)
+  * 🥇 2014 **National** Junior Math **Olympiad** 6th Rank and Gold Medalist: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/6bf8b096-2f15-4a82-8fba-ce490e880d32)
 
 * Sports
   * 🥇 2018 Provincial Volleyball Tournament 1st Place Winner: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/fef87c83-8910-4d0b-9121-b05af8ec0f95)
