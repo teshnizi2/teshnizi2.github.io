@@ -17,7 +17,7 @@ Work Experience
 ======
 * Research Assistant, Data Science and Machine Learning([DML](http://dml.ir/users/profile/89/)) lab, Dr. [Rohban](https://sharif.edu/~rohban/), Sharif
   * [Duties](https://github.com/teshnizi2/DML_Lab_Documents): Research in Data, object detection, classification, regression, segmentation, Ablation Study, Attention, Interpretability, Feature Importance, etc.
-* Research Assistant, [RADIAN](https://www.researchgate.net/lab/Reliable-and-Durable-IoT-Applications-Networks-RADIAN-Bardia-Safaei) IoT Lab, Dr. [Safaei](https://www.researchgate.net/lab/Reliable-and-Durable-IoT-Applications-Networks-RADIAN-Bardia-Safaei) Sharif
+* Research Assistant, [RADIAN](https://www.researchgate.net/lab/Reliable-and-Durable-IoT-Applications-Networks-RADIAN-Bardia-Safaei) IoT Lab, Dr. [Safaei](https://www.researchgate.net/lab/Reliable-and-Durable-IoT-Applications-Networks-RADIAN-Bardia-Safaei), Sharif
   * Duties: Developed human behavior dataset via WiFi-based human identification
 * Data Scientist, Social Data Analytics Project, [Shahid Beheshti University](https://en.sbu.ac.ir/)
   * Duties: Collecting, Cleaning, and Visualizing Data.
