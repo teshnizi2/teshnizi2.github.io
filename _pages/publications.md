@@ -11,6 +11,10 @@ You can also find my articles on <u><a href="{{ https://scholar.google.com/citat
 
 {% include base_path %}
 
+
+## Google Scholar
+[My Google Scholar Profile](https://scholar.google.com/citations?user=GuZoTw4AAAAJ&hl=en)
+
 ## Publications
 
 - **Counterfeit Detection of Iranian Black Tea Using Image Processing and Deep Learning Based on Patched and Unpatched Images**  
@@ -26,3 +30,5 @@ You can also find my articles on <u><a href="{{ https://scholar.google.com/citat
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
