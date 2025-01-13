@@ -19,7 +19,6 @@ redirect_from:
       I’m a recent graduate in Computer Engineering from Sharif University of Technology. I’ve dedicated my studies to turning advanced technologies into practical tools for real-world impact. My work fuses <strong>human-computer interaction</strong>, <strong>machine learning</strong>, and <strong>IoT</strong> to address challenges in agriculture, health, and beyond.
     </p>
   </div>
-  <img src="https://via.placeholder.com/300" alt="Placeholder Image" style="flex: 1; max-width: 50%; border-radius: 8px;">
 </div>
 
 
