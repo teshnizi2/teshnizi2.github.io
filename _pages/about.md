@@ -16,7 +16,7 @@ redirect_from:
     <div style="flex: 1; padding-right: 1rem; text-align: justify;">
       <h1>Hello!</h1>
       <p>
-        I recently completed my undergraduate studies in Computer Engineering at Sharif University of Technology. I’ve dedicated my studies to turning advanced technologies into practical tools for real-world impact. My work fuses <strong>human-computer interaction</strong>, <strong>machine learning</strong>, and <strong>IoT</strong> to address challenges in agriculture, health, and beyond.
+        I recently completed my undergraduate studies in Computer Engineering at Sharif University of Technology. I’ve dedicated my studies to turning advanced technologies into practical tools for real-world impact. My work fuses <strong>human-computer interaction</strong>, <strong>machine learning</strong>, <strong>reinforcement learning</strong>, and <strong>IoT</strong> to address challenges in agriculture, health, and beyond.
       </p>
     </div>
   </div>
