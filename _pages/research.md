@@ -47,12 +47,12 @@ redirect_from:
 - Human-Computer Interaction
 - Precision Agriculture
 - IoT
-- Image Processing
 - Machine Learning
 - Reinforcement Learning
+- Image Processing
 - Sensors
 - Wearables
-- 
+  
 ---
 
 ## Languages & Skills
