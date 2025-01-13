@@ -45,13 +45,6 @@ redirect_from:
 
   <hr>
 
-  <h2>Bridging Research & Real-World Impact</h2>
-  <p>
-    My mission is to connect breakthroughs in <strong>machine learning</strong>, <strong>robotics</strong>, and <strong>IoT</strong> with applications that genuinely improve lives and industries. I believe innovation should be both visionary and practical—empowering industries, communities, and individuals to thrive.
-  </p>
-
-  <hr>
-
   <h2>Let’s Collaborate!</h2>
   <p>
     If you’d like to discuss ideas, explore projects, or chat about emerging technologies, feel free to reach out!<br>
