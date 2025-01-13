@@ -10,9 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-# Teaching Experience
 
----
 
 ## Automata Theory
 - **Roles & Semesters:**
