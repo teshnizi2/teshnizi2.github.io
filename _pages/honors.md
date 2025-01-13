@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Honors
+
 ======
 * Academics
   * 📰 2019 Iran’s National University Entrance Exam (Konkur): top 0.5%
