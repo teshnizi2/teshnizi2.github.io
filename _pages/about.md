@@ -10,56 +10,22 @@ redirect_from:
 ---
 
 
-Hello, I'm currently pursuing my Bachelor of Science in **Computer Engineering** at **Sharif University of Technology**. My focus lies in exploring **human health and behavior** through a lens centered on **data analysis**. At present, I'm engaged in research activities within the **Data and Machine Learning ([DML](http://dml.ir/users/profile/89/))** Lab, as well as contributing to projects at the **[RADIAN](https://www.researchgate.net/lab/Reliable-and-Durable-IoT-Applications-Networks-RADIAN-Bardia-Safaei)** IOT Lab.
+Hello!
+
+I’m an undergraduate in Computer Engineering at Sharif University of Technology, where I'm constantly exploring how to bring advanced technology from the lab into everyday life. My work centers on two main areas: creating intelligent systems for sustainable agriculture and developing user-friendly wearable and human-computer interaction (HCI) tools.
+
+What does that mean exactly?
+
+For sustainable agriculture, I design solutions that use sensors, machine learning, and IoT technologies to help optimize resource use and monitor crop health. Imagine tools that give farmers real-time insights so they can make smarter decisions about irrigation, fertilization, or pest control—this is where data meets real-world challenges in food production.
+
+![image_2025-01-14_01-27-42](https://github.com/user-attachments/assets/36e84e46-9726-49b3-b8a8-a9d7abb55de4)
+
+On the wearable and HCI side, I focus on building interfaces and devices that are as intuitive as they are innovative. By turning complex data into clear, actionable information, I create tools that help people monitor their health or interact with technology more naturally. Whether it’s a smart wearable or an app that makes technology more accessible, my goal is to enhance how we connect with our devices in our daily lives.
+
+![Medical-wearables-devices-a-wearable-electronics-come-into-contact-with-the-skin-in-a](https://github.com/user-attachments/assets/c8492f69-3c68-48f1-b632-d1209c6d4b14)
+
+Interested in a chat or collaboration?
+Just drop me an email at Teshnizireza@gmail.com—I’d love to discuss how we can use technology to make a real difference!
 
 
-Work Experience
-======
-* Research Assistant, Data Science and Machine Learning([DML](http://dml.ir/users/profile/89/)) lab, Dr. [Rohban](https://sharif.edu/~rohban/), Sharif
-  * [Duties](https://github.com/teshnizi2/DML_Lab_Documents): Research in Data, object detection, classification, regression, segmentation, Ablation Study, Attention, Interpretability, Feature Importance, etc.
-* Research Assistant, [RADIAN](https://www.researchgate.net/lab/Reliable-and-Durable-IoT-Applications-Networks-RADIAN-Bardia-Safaei) IoT Lab, Dr. [Safaei](https://www.researchgate.net/lab/Reliable-and-Durable-IoT-Applications-Networks-RADIAN-Bardia-Safaei), Sharif
-  * Duties: Developed human behavior dataset via WiFi-based human identification
-* Data Scientist, Social Data Analytics Project, [Shahid Beheshti University](https://en.sbu.ac.ir/)
-  * Duties: Collecting, Cleaning, and Visualizing Data.
-* Assistant, Genetic Engineering Workshops, [Kimiya Pazhouh Alborz](https://kpalab.com/)
 
-
-Courses
-======
-* Machine Learning
-  * Convolutional Neural Networks for Visual Recognition (Stanford CS231n): [GitHub](https://github.com/teshnizi2/CS231n-Assignments)
-  * Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization: [Certificate](https://coursera.org/share/1a68c495206dc47a91e6e0a2dd8f03d8)
-  * Sequence Models: [Certificate](https://coursera.org/share/86e6fef8cf97ebf6c27161751741c14f)
-  * Convolutional Neural Networks: [Certificate](https://coursera.org/share/86e6fef8cf97ebf6c27161751741c14f)
-  * Neural Networks and Deep Learning: [Certificate](https://coursera.org/share/b7f7452ca559f03b7df981536179613c)
-  * Structuring Machine Learning Projects: [Certificate](https://coursera.org/share/7431fc2efcabb45e4c94bae2db6d0d83)
-* Others
-  * Genetic Engineering 3-Month Workshop: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/90a31818-044e-4ecd-927c-dae94077d758)
-
-Honors
-======
-* Academics
-  * 🌐📰 2017 **International** Math Competition (**IMC**) Participant: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/9ccf3f7d-0625-4d7a-bed5-50d2344fcf65)
-  * 🌐📰 2017 **International** Math Competition (**IMC**) Puzzle Winner: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/31f7cea8-7f1d-487a-b0a1-4d9e95ce795b)
-  * 📰 2016 **National** Kangaroo Math Competition Participant: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/29271b71-71ac-4781-aae5-eb5ac5dbf6fd)
-  * 📰 2016 **National** Kangaroo Math Competition Honors Diploma, Top 30%: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/27da1a34-b3fb-42e3-b604-fb79b7cc7e31)
-  * 🥈 2016 **National** Junior Math **Olympiad** 27th Rank and Silver Medalist: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/4986356c-93c2-4bc3-bcb5-12e72d3b81b2)
-  * 🥉 2015 **National** Junior Math **Olympiad** 46th Rank and Bronze Medalist: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/01565ba3-37cd-4c06-afd1-fa000b693c6d)
-  * 🥇 2014 Provincial International Kharazmi Festival Best Mechanics Design: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/b75507b4-b346-421f-aca1-4d2373366709)
-  * 🥇 2014 **National** Junior Math **Olympiad** 6th Rank and Gold Medalist: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/6bf8b096-2f15-4a82-8fba-ce490e880d32)
-  * 🥇 2012 Provincial Laboratory Science Competition 1st Place Winner: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/f79e1a61-ecd0-470d-9d81-96749be8f51a)
-
-* Sports
-  * 🥇 2018 Provincial **Volleyball** Tournament 1st Place Winner: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/fef87c83-8910-4d0b-9121-b05af8ec0f95)
-  * 🥉 2018 District **Table Tennis** Tournament 3rd Place Winner: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/c336bf56-f597-402e-abf3-1ef0113ed06f)
-  * 🥇 2015 City **Volleyball** 1st Place Champion: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/a25bd070-436d-481e-b855-fc826a024cc5)
-  * 🥇 2015 City **Table Tennis** Tournament 1st Place Winner: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/6f3c0cae-cd48-4969-9148-59592c699711)
-  * 🥉 2013 Provincial **Volleyball** Tournament 3rd Place Winner: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/fcbab52d-3d9c-4f70-a02c-bda0478bff1b)
-  * 🥉 2013 City **Table Tennis** Tournament 3rd Place Winner: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/3b3b2447-f0e8-4731-b1be-0eb936fa0839)
-  * 🥇 2012 Provincial **Darts** Tournament 1st Place Winner: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/566496d2-cf6c-427e-887a-5c305fabb871)
-  * 🥈 2010 City **9-Year-Old** 2nd Place Winner in **Under-16 Chess** Tournament: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/1091f999-2401-4823-a3e4-600693916ece)
-
-Skills
-======
-* Programming: Python, Java, C/C++, C#, R, Matlab
-* Tools: Git, PyTorch, TensorFlow, Scikit-Learn, NumPy, Pandas, LaTeX
