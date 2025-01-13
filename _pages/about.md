@@ -23,7 +23,7 @@ I’m a recent graduate in Computer Engineering from Sharif University of Techno
   <div style="flex: 1; padding-right: 1rem;">
     I’m passionate about integrating **sensors**, **machine learning**, and **IoT** to transform farming practices. My projects range from automating crop monitoring to optimizing resource use, all with the goal of making agriculture more sustainable. Recently, I’ve been exploring how **robotics** and **reinforcement learning** can create autonomous systems that respond to changing conditions in real time, bringing new levels of efficiency and intelligence to the field.
   </div>
-  <img src="https://github.com/user-attachments/assets/36e84e46-9726-49b3-b8a8-a9d7abb55de4" style="flex: 1; max-width: 50%; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/5201f797-dbba-4ce0-8e66-6b607b6bbd11" style="flex: 1; max-width: 50%; border-radius: 8px;">
 </div>
 
 ---
