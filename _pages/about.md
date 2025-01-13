@@ -18,27 +18,30 @@ I’m an undergraduate in Computer Engineering at Sharif University of Technolog
 
 ## What does that mean exactly?
 
-<div style="display: flex; align-items: center; justify-content: center;">
+### Sustainable Agriculture  
+<div style="display: flex; align-items: center; margin-bottom: 1rem;">
   <div style="flex: 1; padding-right: 1rem;">
-    For sustainable agriculture, I design solutions that use sensors, machine learning, and IoT technologies to help optimize resource use and monitor crop health. Imagine tools that give farmers real-time insights so they can make smarter decisions about irrigation, fertilization, or pest control—this is where data meets real-world challenges in food production.
+    I design solutions that use sensors, machine learning, and IoT technologies to optimize resource use and monitor crop health. Imagine tools that provide farmers with real-time insights for smarter decisions about irrigation, fertilization, or pest control. This is where data meets real-world challenges in agriculture, helping to create more sustainable and efficient practices.
   </div>
-  <img src="https://github.com/user-attachments/assets/36e84e46-9726-49b3-b8a8-a9d7abb55de4" style="flex: 1; max-width: 50%;">
+  <img src="https://github.com/user-attachments/assets/36e84e46-9726-49b3-b8a8-a9d7abb55de4" style="flex: 1; max-width: 50%; border-radius: 8px;">
 </div>
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/c8492f69-3c68-48f1-b632-d1209c6d4b14" style="flex: 1; max-width: 50%; margin-right: 1rem;">
+### Wearable Technology & HCI  
+<div style="display: flex; align-items: center; margin-bottom: 1rem;">
+  <img src="https://github.com/user-attachments/assets/c8492f69-3c68-48f1-b632-d1209c6d4b14" style="flex: 1; max-width: 50%; margin-right: 1rem; border-radius: 8px;">
   <div style="flex: 1;">
-    On the wearable and HCI side, I focus on building interfaces and devices that are as intuitive as they are innovative. By turning complex data into clear, actionable information, I create tools that help people monitor their health or interact with technology more naturally. Whether it’s a smart wearable or an app that makes technology more accessible, my goal is to enhance how we connect with our devices in our daily lives.
+    On the wearable and HCI side, I focus on building devices and interfaces that are intuitive and innovative. By translating complex data into actionable insights, I create tools that help people monitor their health or interact with technology seamlessly. Whether it’s a smart wearable or an intuitive app, my goal is to make technology more accessible and impactful in daily life.
   </div>
 </div>
 
 ---
 
-### Interested in a chat or collaboration?
+## Let’s Collaborate!  
+If you’d like to discuss ideas, share insights, or collaborate on exciting projects, feel free to reach out!  
+📧 [Teshnizireza@gmail.com](mailto:Teshnizireza@gmail.com)  
 
-Just drop me an email at [Teshnizireza@gmail.com](mailto:Teshnizireza@gmail.com)—I’d love to discuss how we can use technology to make a real difference!
 
 
 
