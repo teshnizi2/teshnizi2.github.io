@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-* Academics
+* Academic
   * 📰 2019 Iran’s National University Entrance Exam (Konkur): top 0.5%
   * 📰 2018 Iran’s National Elites Foundation (INEF): Recognized as Scientific Elite 
   * 🌐📰 2017 **International** Math Competition (**IMC**) Participant: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/9ccf3f7d-0625-4d7a-bed5-50d2344fcf65)
@@ -25,7 +25,7 @@ redirect_from:
   * 🥇 2014 **National** Junior Math **Olympiad** 6th Rank and Gold Medalist: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/6bf8b096-2f15-4a82-8fba-ce490e880d32)
   * 🥇 2012 Provincial Laboratory Science Competition 1st Place Winner: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/f79e1a61-ecd0-470d-9d81-96749be8f51a)
 
-* Sports
+* Sport
   * 🥇 2018 Provincial **Volleyball** Tournament 1st Place Winner: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/fef87c83-8910-4d0b-9121-b05af8ec0f95)
   * 🥉 2018 District **Table Tennis** Tournament 3rd Place Winner: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/c336bf56-f597-402e-abf3-1ef0113ed06f)
   * 🥇 2015 City **Volleyball** 1st Place Champion: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/a25bd070-436d-481e-b855-fc826a024cc5)
