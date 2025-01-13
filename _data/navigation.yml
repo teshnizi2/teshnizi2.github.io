@@ -2,28 +2,29 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "Research"
+    url: /research/
 
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Languages & Skills"
-    url: /Languages & Skills/
+
         
   # - title: "Blog Posts"
   #   url: /year-archive/
 
   
 
-  - title: "Courses"
-    url: /courses/
-
   - title: "Honors"
     url: /honors/
 
-  - title: "Research"
-    url: /research/
-    
+
+  - title: "Languages & Skills"
+    url: /Languages & Skills/
+
+  - title: "Courses"
+    url: /courses/
     
   # - title: "Guide"
   #   url: /markdown/
