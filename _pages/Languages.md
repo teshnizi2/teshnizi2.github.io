@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Honors"
-permalink: /honors/
+title: "Languages & Skills"
+permalink: /Languages & Skills/
 author_profile: true
 redirect_from:
   - /resume
