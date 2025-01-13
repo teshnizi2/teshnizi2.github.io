@@ -15,42 +15,40 @@ redirect_from:
 ---
 
 ## Automata Theory
-- **Role & Duration:**
-  - *Head TA:* 2 Semesters  
-    *Fall 2023, Spring 2024*
-  - *TA:* 1 Semester  
-    *Fall 2024*
+- **Roles & Semesters:**
+  - *Head TA:* Fall 2023, Spring 2024 (2 Semesters)
+  - *TA:* Fall 2024 (1 Semester)
 
 ---
 
 ## Computer Simulation
 - **Role:** TA  
-  **Duration:** 2 Semesters  
-  *Spring 2024, Fall 2024*
+- **Semesters:** Spring 2024, Fall 2024 (2 Semesters)
 
 ---
 
 ## Advanced Programming
-- **Role:** Instructor  
-  **Duration:** Summer 2024
+- **Role:** TA  
+- **Semester:** Summer 2024
 
 ---
 
 ## Data Science
-- **Role:** Instructor  
-  **Duration:** Winter 2025
+- **Role:** TA  
+- **Semester:** Winter 2025
 
 ---
 
 ## Probability and Statistics
-- **Role:** Instructor  
-  **Duration:** Spring 2021
+- **Role:** TA  
+- **Semester:** Spring 2021
 
 ---
 
 ## IMC, Math, and Computer Olympiad
 - **Role:** Instructor  
-  **Duration:** Various Years
+- **Duration:** Various Years
+
 
 
 
