@@ -10,10 +10,47 @@ redirect_from:
 {% include base_path %}
 
 
-- **Languages**: **English** (TOEFL: R 23 (best 27), L 24, S 23, W 21); **Persian** (Native).
-- **Programming Languages**: Python, C, C++, Java, MATLAB, R, SQL, HTML, CSS.
-- **Libraries and Frameworks**: PyTorch, CUDA, Scikit-Learn, Keras, Pandas, NumPy, TensorFlow.
-- **Tools and Platforms**: LaTeX, Linux, Arduino, Raspberry Pi, FPGA.
+# Teaching Experience
+
+---
+
+## Automata Theory
+- **Role & Duration:**
+  - *Head TA:* 2 Semesters  
+    *Fall 2023, Spring 2024*
+  - *TA:* 1 Semester  
+    *Fall 2024*
+
+---
+
+## Computer Simulation
+- **Role:** TA  
+  **Duration:** 2 Semesters  
+  *Spring 2024, Fall 2024*
+
+---
+
+## Advanced Programming
+- **Role:** Instructor  
+  **Duration:** Summer 2024
+
+---
+
+## Data Science
+- **Role:** Instructor  
+  **Duration:** Winter 2025
+
+---
+
+## Probability and Statistics
+- **Role:** Instructor  
+  **Duration:** Spring 2021
+
+---
+
+## IMC, Math, and Computer Olympiad
+- **Role:** Instructor  
+  **Duration:** Various Years
 
 
 
