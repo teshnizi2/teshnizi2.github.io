@@ -10,9 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-
----
-
 ## Automata Theory
 - *Head TA:* Fall 2023, Spring 2024, Spring 2025 (3 Semesters)
 - *TA:* Fall 2024 (1 Semester)
