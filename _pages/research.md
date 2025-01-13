@@ -43,28 +43,5 @@ redirect_from:
 
 ---
 
-## Areas of Interest
-- Human-Computer Interaction
-- Precision Agriculture
-- IoT
-- Machine Learning
-- Reinforcement Learning
-- Image Processing
-- Sensors
-- Wearables
-  
----
-
-## Languages & Skills
-- **Languages**: **English** (TOEFL: R 23 (best 27), L 24, S 23, W 21); **Persian** (Native).
-- **Programming Languages**: Python, C, C++, Java, MATLAB, R, SQL, HTML, CSS.
-- **Libraries and Frameworks**: PyTorch, CUDA, Scikit-Learn, Keras, Pandas, NumPy, TensorFlow.
-- **Tools and Platforms**: LaTeX, Linux, Arduino, Raspberry Pi, FPGA.
-
----
-
-## Education
-- **BSc in Computer Engineering**, Sharif University of Technology  
-- **High School Diploma in Mathematics and Physics**, Shahid Beheshti High School
 
 
