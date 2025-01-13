@@ -11,7 +11,6 @@ redirect_from:
 
 
 
-======
 * Academics
   * 📰 2019 Iran’s National University Entrance Exam (Konkur): top 0.5%
   * 📰 2018 Iran’s National Elites Foundation (INEF): Recognized as Scientific Elite 
