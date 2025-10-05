@@ -14,6 +14,7 @@ redirect_from:
 * Convolutional Neural Networks: [Certificate](https://coursera.org/share/86e6fef8cf97ebf6c27161751741c14f)
 * Neural Networks and Deep Learning: [Certificate](https://coursera.org/share/b7f7452ca559f03b7df981536179613c)
 * Structuring Machine Learning Projects: [Certificate](https://coursera.org/share/7431fc2efcabb45e4c94bae2db6d0d83)
+* Supervised Machine Learning: Regression and Classification: [Certificate]([https://coursera.org/share/7431fc2efcabb45e4c94bae2db6d0d83](https://coursera.org/share/d0e83333159bdb682cdde69bccce922a))
 * Internet of Things and Embedded Systems: [Certificate](https://github.com/user-attachments/files/18399252/Coursera.W59XOSO6WUNR.pdf)
 * Genetic Engineering 3-Month Workshop: [Certificate](https://github.com/teshnizi2/teshnizi2.github.io/assets/59166955/90a31818-044e-4ecd-927c-dae94077d758)
 
