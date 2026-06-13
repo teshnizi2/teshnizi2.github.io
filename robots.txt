@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://teshnizi2.github.io
+Sitemap: https://teshnizi2.github.io/sitemap.xml
